@@ -8,7 +8,9 @@
         "properties": {
             "marker-size": "medium",
             "marker-symbol": "bus",
-            "marker-color": "#ace"
+            "marker-color": "#ace",
+            "title": "My superb title",
+            "description": "This is a long, long, long description"
         }
     }, {
         "type": "Feature",
